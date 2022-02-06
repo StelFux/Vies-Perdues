@@ -16,6 +16,11 @@ hash = "984cd239cdf5fd53d95b73a4d11e4dd9fe6a070f2713dd366a207d776d564b91"
 metafile = true
 
 [[files]]
+file = "mods/chunky.toml"
+hash = "a584b7801087012f322ead441f466db56531389532f74cfe192fc2cc0fdcc982"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/more-banner-features.toml"
 hash = "4f57669d34de37a7b13263fead53047f3de9832aae52e283b71f50ec10fd711d"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "d37510517fbc1216a84eeff3598ec74f240de779f0cbfd1f8db0b1472fa1b7f2"
 metafile = true
 
 [[files]]
