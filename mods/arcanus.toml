@@ -1,0 +1,13 @@
+name = "Arcanus"
+filename = "arcanus-1.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgaWtmrV/versions/1.27/arcanus-1.27.jar"
+hash-format = "sha512"
+hash = "4266ea1b64e95c0acfb91acd6016a32d50c749ee3df60fed66cc0e2131d0802b9f112534d92e1943ee8869658150f6c3a8becc087010085f5cee88ccf3d0e900"
+
+[update]
+[update.modrinth]
+mod-id = "zgaWtmrV"
+version = "zO08blIO"

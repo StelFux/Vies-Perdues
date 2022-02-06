@@ -1,0 +1,13 @@
+name = "Achievement Plates"
+filename = "achievementplates-1.18+-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/666/achievementplates-1.18+-1.6.jar"
+hash-format = "murmur2"
+hash = "3801505381"
+
+[update]
+[update.curseforge]
+file-id = 3561666
+project-id = 522248

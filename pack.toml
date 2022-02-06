@@ -1,0 +1,13 @@
+name = "Vies Perdues"
+author = "chada300"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fead8a7d3d87f7030f40dd3389d4d6c9a8094725a2c6c086958773ed685ac212"
+
+[versions]
+fabric = "0.13.1"
+minecraft = "1.18.1"

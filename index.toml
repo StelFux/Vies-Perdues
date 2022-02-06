@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/achievement-plates.toml"
+hash = "949b99936a685adfa2b52e8d444c26b74050766a443ad440ad1376bd4c810874"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.toml"
+hash = "ea9317f689a57e604a3495f375980952f12f5b3d8a3f05a33655573eea068bcc"
+metafile = true
+
+[[files]]
+file = "mods/arcanus.toml"
+hash = "984cd239cdf5fd53d95b73a4d11e4dd9fe6a070f2713dd366a207d776d564b91"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "4dab13f9875dffa1889c7392ef196cb46d246184964bf4644bcbfbc67b7e102c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "895af62871364c14a635aa674074ab0e5dc88fa41eb6a60bdab075feb106a6fe"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.toml"
+hash = "928340d53f0d8c76201c0abac48bd4ad2aed69d34b80ced804daf262bf543ce0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "da62be08037c326851ea1443be7532120dc09b24aac93144120126717d6813d1"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "6c4c39000e6ef4c4996244f26ad34217dd7e4f69f76ae2086f3818de640d885a"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+metafile = true
+
+[[files]]
+file = "mods/more-banner-features.toml"
+hash = "4f57669d34de37a7b13263fead53047f3de9832aae52e283b71f50ec10fd711d"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.toml"
+hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+metafile = true
+
+[[files]]
+file = "mods/wandering-collector.toml"
+hash = "5c1fa2a05b79e26f4713f72209cc4472d3c4b9e041c88735fb4135656ddb108a"
+metafile = true
