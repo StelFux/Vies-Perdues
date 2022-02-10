@@ -1,0 +1,8 @@
+name = "LuckPerms"
+filename = "LuckPerms-Fabric-5.3.98.jar"
+side = "server"
+
+[download]
+url = "https://ci.lucko.me/job/LuckPerms/1398/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.98.jar"
+hash-format = "sha512"
+hash = "a19978b2d812b0c818b87358bb36639ba5689c606eb7e8ad8a3039bb3dd6a70a53d6876e06ed7282f12961dc7a795506cb2627d841c9c63fbd428311f9893c99"

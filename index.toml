@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/PlasmoVoice/bstats.json"
+hash = "4a30c9be3f878a9b2ecf59f5e0ada934c9d7e390f09c232597a46d5b4e929a50"
+
+[[files]]
+file = "config/PlasmoVoice/server.yml"
+hash = "ce8f1dc0714efac0b3afc9c90e49cc45912cd54435bb0dcf9a9413ffb737da04"
+
+[[files]]
 file = "mods/achievement-plates.toml"
 hash = "949b99936a685adfa2b52e8d444c26b74050766a443ad440ad1376bd4c810874"
 metafile = true
@@ -58,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.toml"
+hash = "2b4094af420e5066e80dcd605080ab9c60a732578c99486b1769d7800803bf6b"
 metafile = true
 
 [[files]]
