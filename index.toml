@@ -93,6 +93,11 @@ hash = "d37510517fbc1216a84eeff3598ec74f240de779f0cbfd1f8db0b1472fa1b7f2"
 metafile = true
 
 [[files]]
+file = "mods/plan.toml"
+hash = "4ce7711eebcc5eb4ece4c209b8e5b361b4552f8554c1cfea9d0a26ccf6dfeb06"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
 metafile = true
