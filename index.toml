@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.toml"
-hash = "2b4094af420e5066e80dcd605080ab9c60a732578c99486b1769d7800803bf6b"
+hash = "b57bb3fd43af50063b83e5c9941f659cd2f2ec9d21df24dd5640fcbda0557147"
 metafile = true
 
 [[files]]
