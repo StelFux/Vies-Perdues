@@ -1,0 +1,8 @@
+name = "A simple permissions API for Fabric"
+filename = "fabric-permissions-api-v0.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/lucko/fabric-permissions-api/releases/download/v0.1/fabric-permissions-api-v0.1.jar"
+hash-format = "sha512"
+hash = "b8db76429a6a0a3bc5a9c8707595952355fbfdce6facf4d561443feb9c2c60d288f756f6a0ca05c8916962d00b928bbfb577aefc32b1533b6e981ab8bcf8d143"
