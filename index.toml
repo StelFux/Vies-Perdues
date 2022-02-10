@@ -111,3 +111,8 @@ metafile = true
 file = "mods/wandering-collector.toml"
 hash = "5c1fa2a05b79e26f4713f72209cc4472d3c4b9e041c88735fb4135656ddb108a"
 metafile = true
+
+[[files]]
+file = "mods/xp-storage.toml"
+hash = "967964794fc10c641536b95d8bf82591928224bff2363b523e2c657bc25701e2"
+metafile = true
