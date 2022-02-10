@@ -1,0 +1,13 @@
+name = "Epic Horse Breed"
+filename = "EpicHorseBreed-1.18-1.0.0-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qudfNnPh/versions/1.0.0/EpicHorseBreed-1.18-1.0.0-dev.jar"
+hash-format = "sha512"
+hash = "a251b8e834e4f230939fb8abf4c8ab6563c64b5436698524f002557e1b9a830414b8983b6094d5ea0360efb4ffa761abb98d9856f271c40ff17bc92a80bf4952"
+
+[update]
+[update.modrinth]
+mod-id = "qudfNnPh"
+version = "5vCUn1gy"

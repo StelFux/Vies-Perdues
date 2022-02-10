@@ -48,6 +48,11 @@ hash = "895af62871364c14a635aa674074ab0e5dc88fa41eb6a60bdab075feb106a6fe"
 metafile = true
 
 [[files]]
+file = "mods/epic-horse-breed.toml"
+hash = "e2155c85c60eeb0af7b1fc964b30966b4fda40eec58f48623df70bc1e727b995"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.toml"
 hash = "5552f8170fc9e23aa8e7724dfc790fdf958c91f5d9d40145e41de0a92914a71e"
 metafile = true
