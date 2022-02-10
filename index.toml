@@ -28,6 +28,11 @@ hash = "984cd239cdf5fd53d95b73a4d11e4dd9fe6a070f2713dd366a207d776d564b91"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+metafile = true
+
+[[files]]
 file = "mods/chunky.toml"
 hash = "a584b7801087012f322ead441f466db56531389532f74cfe192fc2cc0fdcc982"
 metafile = true
@@ -110,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.toml"
 hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
