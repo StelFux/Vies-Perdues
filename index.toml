@@ -9,6 +9,10 @@ file = "config/PlasmoVoice/server.yml"
 hash = "ce8f1dc0714efac0b3afc9c90e49cc45912cd54435bb0dcf9a9413ffb737da04"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "09350ec66a77e124459478b9a6b6f8b616745f06cf4047d0e4219699aff80de9"
+
+[[files]]
 file = "mods/achievement-plates.toml"
 hash = "949b99936a685adfa2b52e8d444c26b74050766a443ad440ad1376bd4c810874"
 metafile = true
