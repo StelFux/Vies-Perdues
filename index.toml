@@ -24,12 +24,12 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus.toml"
-hash = "984cd239cdf5fd53d95b73a4d11e4dd9fe6a070f2713dd366a207d776d564b91"
+hash = "f6d4fbfd590adc63605872fbeda1ca6f090533a175cf17ae649cef7c719a37a2"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+hash = "9186412ceda57d9b09bb0fc1b7c1de313bdfddc100be2e565b56fcffbf5caafa"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "4dab13f9875dffa1889c7392ef196cb46d246184964bf4644bcbfbc67b7e102c"
+hash = "610795735e99ffd5ddaf55a91c76b05fff423d2c61cc942769f46c16f8a1a1ea"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.toml"
-hash = "5552f8170fc9e23aa8e7724dfc790fdf958c91f5d9d40145e41de0a92914a71e"
+hash = "16370e94d62b1b16fcd38bce05b66686d2e96979c6662481833da72f3765f650"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "da62be08037c326851ea1443be7532120dc09b24aac93144120126717d6813d1"
+hash = "70e570f8897a9dbe737e13e4f627fc746ddc52562ea7ff9cae35bacc5600f481"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "6c4c39000e6ef4c4996244f26ad34217dd7e4f69f76ae2086f3818de640d885a"
+hash = "3590b0046a05328fa8f4f3d499be14514002d8658879b600b5e2a46f60f85783"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+hash = "3fba2888b45044b8e058b6be4ffd8fe1241eace50004b76b6576dd5e78843a5a"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "53d54d60234c39fcda6ff212e3b9eadaaf622d04bd3f3cadf86aec42daeff922"
 metafile = true
 
 [[files]]

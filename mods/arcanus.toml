@@ -1,13 +1,13 @@
 name = "Arcanus"
-filename = "arcanus-1.27.jar"
+filename = "arcanus-1.28.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zgaWtmrV/versions/1.27/arcanus-1.27.jar"
+url = "https://cdn.modrinth.com/data/zgaWtmrV/versions/1.28/arcanus-1.28.jar"
 hash-format = "sha512"
-hash = "4266ea1b64e95c0acfb91acd6016a32d50c749ee3df60fed66cc0e2131d0802b9f112534d92e1943ee8869658150f6c3a8becc087010085f5cee88ccf3d0e900"
+hash = "c4abde480a3781c9aa8b2fc591935838f3c88785506381ce4c0e1f78ed98c0220e12795628354d3e65b1b84308ce4372996b86eff16f08be2b0ad1d8e55ea7e3"
 
 [update]
 [update.modrinth]
 mod-id = "zgaWtmrV"
-version = "zO08blIO"
+version = "XzD0Me66"
