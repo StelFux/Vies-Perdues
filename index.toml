@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9186412ceda57d9b09bb0fc1b7c1de313bdfddc100be2e565b56fcffbf5caafa"
+hash = "9a32fce0a7f0067c20a393f90a52ad0731374a20bdccafec10d15fc1ace3fc91"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "610795735e99ffd5ddaf55a91c76b05fff423d2c61cc942769f46c16f8a1a1ea"
+hash = "3c6aee44d1c19f7d5b7b080f890faa89954de9e3a13e36cc19de8819e7cb5831"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.toml"
-hash = "16370e94d62b1b16fcd38bce05b66686d2e96979c6662481833da72f3765f650"
+hash = "dbf6b171fe4b76e02942279f40bcafc17a064cbec1bcb7763bf7ed69fbd7692c"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "70e570f8897a9dbe737e13e4f627fc746ddc52562ea7ff9cae35bacc5600f481"
+hash = "59cedfbefe7c2657cdd674e3559235fbfcc16217266a6f70515c39c15b141f6c"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "3590b0046a05328fa8f4f3d499be14514002d8658879b600b5e2a46f60f85783"
+hash = "263be2d355829560e28a8f8600de3beb98eec20d4f03b0ac78504991b947371c"
 metafile = true
 
 [[files]]
@@ -89,17 +89,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "3fba2888b45044b8e058b6be4ffd8fe1241eace50004b76b6576dd5e78843a5a"
+hash = "64a4b886ff13e45a06ae3714f4ec3fd5c15a1a4e0573df1cdfa35d673eec45ad"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.toml"
-hash = "b57bb3fd43af50063b83e5c9941f659cd2f2ec9d21df24dd5640fcbda0557147"
+hash = "941330e6affcc7191cb3eb89fd7f79beff3bc8ff72a3910de6803898bb14e716"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+hash = "a8a11c16b918801de839b4ee2e74ff690fba9de1b8e702df20cc01660924cfb2"
 metafile = true
 
 [[files]]
@@ -109,17 +109,17 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.toml"
-hash = "d37510517fbc1216a84eeff3598ec74f240de779f0cbfd1f8db0b1472fa1b7f2"
+hash = "8521d3cccdd530732c5690a85549c76026727fe04b0e0ba00bb1a49fcae76627"
 metafile = true
 
 [[files]]
 file = "mods/plan.toml"
-hash = "4ce7711eebcc5eb4ece4c209b8e5b361b4552f8554c1cfea9d0a26ccf6dfeb06"
+hash = "af1026d67a9f7bbb6034615f1ea0c00e185b03efd59d2a494887390c6aeede15"
 metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.toml"
-hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
+hash = "5a58b0951d4be00aec3b1665d8223e7bf3d3f3ae9c6cd562a9b5c81750543230"
 metafile = true
 
 [[files]]
@@ -129,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
 
 [[files]]
 file = "mods/wandering-collector.toml"
-hash = "5c1fa2a05b79e26f4713f72209cc4472d3c4b9e041c88735fb4135656ddb108a"
+hash = "9e99668fc6cdc2bafafd2e3fd34b6c5478105745218ac384927443f13f20b179"
 metafile = true
 
 [[files]]

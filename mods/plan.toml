@@ -1,8 +1,8 @@
 name = "Plan - Player Analytics"
-filename = "Plan-5.4-build-1516.jar"
+filename = "PlanFabric-5.4-build-1583.jar"
 side = "server"
 
 [download]
-url = "https://github.com/plan-player-analytics/Plan/releases/download/5.4.1516/Plan-5.4-build-1516.jar"
+url = "https://github.com/plan-player-analytics/Plan/releases/download/5.4.1583/PlanFabric-5.4-build-1583.jar"
 hash-format = "sha512"
-hash = "2f8efb416dc7330def08d42046e66d6ccb0a6ccb09479a8a125d9b4a3d2e8d9fd0e3e2b6a9c2cb5ad06bfad779efdfa620bdbee89344b855c4a644a9a6dd41b5"
+hash = "a7812df5bd904ae6f5556bef664401005bd44470f1048a352fc2be65062059caa73fc504f94b85024b2250ba57cb780dbfac0c40cd372b35998149dea1bde2d4"
