@@ -28,11 +28,6 @@ hash = "ea9317f689a57e604a3495f375980952f12f5b3d8a3f05a33655573eea068bcc"
 metafile = true
 
 [[files]]
-file = "mods/arcanus.toml"
-hash = "f6d4fbfd590adc63605872fbeda1ca6f090533a175cf17ae649cef7c719a37a2"
-metafile = true
-
-[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "9186412ceda57d9b09bb0fc1b7c1de313bdfddc100be2e565b56fcffbf5caafa"
 metafile = true
