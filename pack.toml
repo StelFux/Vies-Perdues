@@ -1,12 +1,12 @@
 name = "Vies Perdues"
 author = "chada300"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8e9b327ba69e0a6c0b091b6af23d7633839b53032e9426ae068d9af5917dc219"
+hash = "4f52ad9737e5fb0919aae6c01185800019bbcb75879f520c3217e3c0742d5edf"
 
 [versions]
 fabric = "0.13.1"
